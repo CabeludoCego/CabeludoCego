@@ -1,8 +1,8 @@
 Hello, you can call me @CabeludoCego. 
-I'm currently a Electrical Eng. student and member of LASI-UFPI, a Intelligent Systems study group focused on impacting society! 
+I'm currently a Electrical Eng. student and President of the team LASI-UFPI, a Intelligent Systems study group focused on impacting society! 
 
-- 👀 I’m currently interested in learning more about Python technologies: Tensorflow, Django and databases. 
-Plus I've got experience with C, Python, Matlab, some Web basic development and AI-based programs.
+- 👀 I’m interested in learning more about Python and its frameworks, upcoming languages and technologies. 
+I've got experience with C, Python, Matlab, Web development, AI-based programs.
 
 - 📫 How to reach me: Email, most likely? 
 
