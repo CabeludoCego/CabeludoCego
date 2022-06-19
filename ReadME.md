@@ -1,5 +1,6 @@
 Hello, you can call me @CabeludoCego, or Lucas Lemos!
-I'm currently a Intern Developer at AION Solution team, Electrical engineer student and current President of the team LASI-UFPI, a Intelligent Systems study group focused on impacting society! 
+
+I'm currently a Intern Developer at AION Solution team 💻📝📈, Electrical engineer student ⚡📖 and current President of the team LASI-UFPI, a Intelligent Systems study group focused on impacting society 📚🚀! 
 
 - 👀 I’m interested in learning more about new and relevant technologies! 
 
