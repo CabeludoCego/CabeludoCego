@@ -1,6 +1,6 @@
 Hello, you can call me @CabeludoCego, or Lucas Lemos!
 
-I'm currently Tech lead of ALL Marketing e Performance, ex-head of LASI-UFPI, a Intelligent Systems study group focused on impacting society 📚🚀, and recently graduated Electrical engineer student! ⚡📖 
+I'm currently Junior developer at ALL Marketing e Performance, ex-head of LASI-UFPI, a Intelligent Systems study group focused on impacting society 📚🚀, and recently graduated Electrical engineer student! ⚡📖 
 Master program started!
 
 - 👀 I’m interested in learning more about new and relevant technologies! 
