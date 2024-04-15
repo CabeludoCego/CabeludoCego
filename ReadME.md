@@ -1,14 +1,11 @@
 Hello, you can call me @CabeludoCego, or Lucas Lemos!
 
-I'm currently Junior developer at ALL Marketing e Performance, ex-head of LASI-UFPI, a Intelligent Systems study group focused on impacting society 📚🚀, and recently graduated Electrical engineer student! ⚡📖 
-Master program started!
+I'm currently a Masters student at UFPI. Previous experience: Junior developer and Team leader at ALL Marketing e Performance, ex-head of LASI-UFPI, graduated Electrical engineer student! ⚡📖 
 
-- 👀 I’m interested in learning more about new and relevant technologies! 
+I've got experience with Python and Django framework, Laravel framework, Front-end development with ReactJS, HTML and CSS, as well as knowledge on Matlab, Docker, C, C++, C#, SQL, Bootstrap framework and AI-based programs.
+I'm currently learning more about: Laravel, VueJS, AWS applications, metaheuristics algorithms, adaptive control systems.
 
-I've got experience with Python, Django framework, ReactJS, C, C++, C#, Matlab, Web development(HTML/CSS/JS), SQL, Bootstrap framework and AI-based programs.
-I'm currently learning more about: Node, metaheuristics algorithms, Laravel, Go language, adaptive control systems.
-
-- 📫 How to reach me: Email, most likely? 
+- 📫 How to reach me: Email 
 
 <!---
 CabeludoCego/CabeludoCego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
